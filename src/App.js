@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        /* add new element saying a random quote */
+        <p> "A random quote" </p>
       </header>
     </div>
   );
